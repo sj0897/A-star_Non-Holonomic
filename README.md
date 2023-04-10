@@ -36,4 +36,4 @@ roslaunch A_star main.launch sx:=-0.25 sy:=-0.75 syaw:=0.523 rpm1:=100 rpm2:=50 
 ```
 
 ## Video
-https://youtu.be/4SreHqmdGlw 
+https://youtu.be/99-Isw6Rsbk 
